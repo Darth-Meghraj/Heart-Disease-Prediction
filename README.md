@@ -30,7 +30,7 @@ The project covers the **entire ML pipeline** — from dataset exploration, prep
 
 🚀 How to Run Locally:
  1. Clone the repository in the vs code terminal:
-      git clone https://github.com/yourusername/heart-disease-prediction.git
+      git clone https://github.com/Darth-Meghraj/Heart-Disease-Prediction.git
       cd heart-disease-prediction
 
 2. Install dependencies:
@@ -41,5 +41,5 @@ The project covers the **entire ML pipeline** — from dataset exploration, prep
 
 🌐 Live Demo
 You can try the app online without installation here:
-https://heart-disease-prediction-n8zvq6juscrszg3ypppxhf.streamlit.app/
+https://heart-disease-prediction-by-meghraj.streamlit.app/
 
